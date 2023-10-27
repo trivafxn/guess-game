@@ -21,6 +21,10 @@ body{
     padding: 50px;
     background: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
 }
+.title{
+    font-family: 'Trebuchet MS';
+    color: white;
+}
 .start-container{
     gap: 2rem;
     display: flex;
@@ -30,10 +34,6 @@ body{
     background-color: rgb(65, 65, 65);
     border-radius: 35px;
     border-style: none;
-}
-.title{
-    font-family: 'Trebuchet MS';
-    color: white;
 }
 #start{
     height: 110px;
